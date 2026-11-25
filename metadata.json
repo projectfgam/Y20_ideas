@@ -1,0 +1,6 @@
+{
+  "name": "أفكار",
+  "description": "منصة تفاعلية لإدارة وتقييم واعتماد الأفكار الإبداعية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
